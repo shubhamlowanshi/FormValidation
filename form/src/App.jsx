@@ -9,7 +9,7 @@ function Child() {
     };
   }, []);
 
-  return <h2>I am the Child</h2>;
+  return <h2>Hello</h2>;
 }
 
 function App() {
