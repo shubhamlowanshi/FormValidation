@@ -1,0 +1,17 @@
+/* In your Login.css (or a common CSS file) */
+.error-text {
+    color: red;
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  .login-container{
+    width: 500px;
+    height: 500px;
+    margin:auto;
+        border: 1px solid black;
+  }
+  input{
+    margin-top: 20px;
+    width: 60%;
+    height: 25px;
+  }
